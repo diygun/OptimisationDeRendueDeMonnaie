@@ -40,7 +40,7 @@ namespace OptimisationDeRendueDeMonnaie
                 }
                 else
                 {
-                    Console.WriteLine("Err ?");
+                    Console.WriteLine("Impossible");
                     break;
                 }
             }
